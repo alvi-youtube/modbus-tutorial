@@ -1,1 +1,1 @@
-# modbus-tutorial
+This repo contains some basic modbus code for tutorial ppurposes. 
